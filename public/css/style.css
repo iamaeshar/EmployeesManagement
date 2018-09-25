@@ -1,0 +1,31 @@
+/*Main Container*/
+.box-container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	box-shadow: 0 5px 25px 0 rgba(0,0,0,.2);
+	width: 500px;
+}
+.box-container table{
+	text-align: center;
+}
+
+/*Show Page Upper Bar*/
+.box-head-btns{
+	height: 60px;
+}
+
+/*Profile Img*/
+.profile-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.profile-img{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	box-shadow: 0 9px 30px -6px rgba(249,99,50,.5);
+	bo
+}
